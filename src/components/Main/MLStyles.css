@@ -1,0 +1,31 @@
+.headText {
+    height: 150px;
+    background-color: white;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.nameAppcomp {
+    padding-top: 25px;
+}
+
+.cardinfo {
+    justify-content: center;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px
+}
+
+.formInput {
+    width: 70%;
+    text-align: center;
+}
+
+.formbutton {
+    width: 30%;
+}
